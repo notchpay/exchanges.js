@@ -1,0 +1,23 @@
+{
+  "name": "@notchpay/exchange.js",
+  "description": "JavaScript currency conversion library.",
+  "homepage": "http://forexapi.world",
+  "keywords": [
+    "money",
+    "fx",
+    "notchpay",
+    "currency",
+    "convert",
+    "conversion",
+    "exchange",
+    "rate",
+    "utilities",
+    "accounting",
+    "number",
+    "cart",
+    "ecommerce"
+  ],
+  "author": "Chapdel KAMGA <drop@chapdel.me>",
+  "main": "exchange.js",
+  "version": "0.0.0"
+}
